@@ -4,9 +4,7 @@ A simple personal portfolio website built with **HTML, CSS, and JavaScript**.
 
 ## Live Demo
 
-After publishing with GitHub Pages, add your live website link here.
-
-Example:
+Visit the website here:
 
 ```text
 https://tipstrikpedia.github.io/personal-portfolio-website/
@@ -49,21 +47,36 @@ personal-portfolio-website/
 
 ## How to Use
 
-1. Create a new repository named `personal-portfolio-website`.
-2. Upload all project files.
-3. Go to **Settings**.
-4. Open **Pages**.
-5. Select branch `main` and folder `/root`.
-6. Save and wait for the GitHub Pages link.
+1. Open the live demo link.
+2. Use the navigation menu to view About, Skills, Projects, and Contact sections.
+3. Click **Dark Mode** to change the website theme.
+4. Click project links to open the live demo or GitHub repository.
 
 ## Customization
 
-Before publishing, update these parts:
+Before using this portfolio professionally, update these parts:
 
 - Replace `your-email@example.com` with your real email.
-- Edit the About section.
+- Edit the About section to match your personal background.
 - Add more projects when available.
 - Update the name if needed.
+- Add LinkedIn or other contact links if available.
+
+## Repository Description Suggestion
+
+A simple personal portfolio website built with HTML, CSS, and JavaScript.
+
+## Suggested Topics
+
+```text
+html
+css
+javascript
+portfolio
+personal-website
+github-pages
+responsive-design
+```
 
 ## Author
 
